@@ -1,1 +1,5 @@
-NOT YET COMPLETED
+* NOT YET COMPLETED *
+
+Configure nginx with TOTP auth module using the --add-module option:
+
+    ./configure --add-module=<path-to-ntotp>
